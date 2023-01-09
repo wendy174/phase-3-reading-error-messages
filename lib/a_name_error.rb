@@ -1,3 +1,8 @@
-"hello world"
+class Hello 
+    puts 'hello world'
+end 
 
-hello_world
+
+
+
+
